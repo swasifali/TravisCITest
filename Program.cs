@@ -10,6 +10,7 @@ namespace TravisCITest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Travis CI Test");
         }
     }
 }
